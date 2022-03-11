@@ -1,3 +1,4 @@
+//Record and output single service
 #include "User.h"
 
 // Implementation of User class
